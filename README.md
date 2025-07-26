@@ -61,8 +61,6 @@ Soy estudiante de último semestres de la carrera Ingenieria de Sistemas y TUS d
 
  [<img align="left" alt="David Bejarano - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/share/1NJt4yg4hK/)
 
-[<img align="left" alt="David Bejarano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/david_bejarano__?igsh=cGVwZnVjdXBnMWo3)
-
 <a href="mailto:malvaris.d4vd@gmail.com"><img align="left" alt="David Bejarano | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
 </div>
